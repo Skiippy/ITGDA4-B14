@@ -1,3 +1,8 @@
+Requirements:
+
+pip install pygame
+pip install PyOpenGL
+
 SPACE = Change Shape
 
 Translate:
